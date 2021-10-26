@@ -1,0 +1,1 @@
+web: gunicorn ejemplo:app --log-file-
